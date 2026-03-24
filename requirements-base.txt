@@ -1,0 +1,15 @@
+# Core data & visualization
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+plotly
+
+# Notebooks
+jupyterlab
+ipywidgets
+
+# Utilities
+python-dotenv
+tqdm
+requests

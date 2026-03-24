@@ -1,0 +1,11 @@
+# Module 2 — ML & Deep Learning
+scikit-learn
+xgboost
+lightgbm
+shap
+torch
+torchvision
+transformers
+statsmodels
+prophet
+optuna

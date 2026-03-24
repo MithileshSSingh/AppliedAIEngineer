@@ -1,0 +1,8 @@
+# Module 7 — Fine-Tuning & Production
+peft
+trl
+bitsandbytes
+datasets
+ray[serve]
+locust
+bandit

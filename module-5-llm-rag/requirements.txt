@@ -1,0 +1,10 @@
+# Module 5 — LLM Foundations & RAG
+openai
+anthropic
+langchain
+langchain-openai
+langchain-anthropic
+chromadb
+tiktoken
+sentence-transformers
+faiss-cpu

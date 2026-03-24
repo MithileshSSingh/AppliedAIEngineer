@@ -1,0 +1,9 @@
+# Module 3 — MLOps & Production
+boto3
+sagemaker
+mlflow
+fastapi
+uvicorn[standard]
+evidently
+streamlit
+httpx

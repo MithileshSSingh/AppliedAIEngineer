@@ -1,0 +1,12 @@
+[project]
+name = "ai-engineer-shared"
+version = "0.1.0"
+description = "Shared utilities for Applied AI Engineering curriculum"
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+include = ["shared*"]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"

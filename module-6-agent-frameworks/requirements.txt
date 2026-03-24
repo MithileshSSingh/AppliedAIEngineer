@@ -1,0 +1,7 @@
+# Module 6 — Agent Frameworks
+langchain
+langgraph
+llama-index
+autogen-agentchat
+crewai
+tavily-python

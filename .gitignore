@@ -1,0 +1,58 @@
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep structure with .gitkeep)
+data/*
+!data/.gitkeep
+*.csv
+*.parquet
+*.pkl
+*.h5
+*.hdf5
+*.sqlite
+*.db
+
+# Model artifacts
+*.pt
+*.pth
+*.onnx
+*.bin
+models/*
+!models/.gitkeep
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Outputs
+outputs/*
+!outputs/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.log
+
+# AWS
+.aws/
